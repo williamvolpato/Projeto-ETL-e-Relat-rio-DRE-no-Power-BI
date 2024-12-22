@@ -11,14 +11,14 @@ This repository documents the process of extracting, transforming, and loading (
 |-- DRE_Final/                 # Processed SQLite database
 |   |-- dre_tratado_final.db   # Final file after cleaning and adjustments
 |
-|-- Data_Cleanup_Validation/   # Processing in Colab
-|   |-- Colab_Notebook.ipynb   # ETL code with validations and fixes
+|-- Tratamento_e_Validação/    # Processing in Colab
+|   |-- Notebook_Colab.ipynb   # ETL code with validations and fixes
 |
 |-- Dashboard/                 # Power BI file
 |   |-- Dashboard.pbix         # Final report with DAX measures and visualizations
 |
-|-- Documentation.md           # Process details and solutions applied
-|-- README.md                  # Project overview
+|-- Documentação.md            # Process details and solutions applied
+|-- README_EN.md                  # Project overview
 ```
 
 ---
