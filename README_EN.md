@@ -18,7 +18,7 @@ This repository documents the process of extracting, transforming, and loading (
 |   |-- Dashboard.pbix         # Final report with DAX measures and visualizations
 |
 |-- Documentação.md            # Process details and solutions applied
-|-- README_EN.md                  # Project overview
+|-- README_EN.md               # Project overview
 ```
 
 ---
