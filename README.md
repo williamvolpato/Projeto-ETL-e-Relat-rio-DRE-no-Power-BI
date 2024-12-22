@@ -8,17 +8,17 @@ Este repositório documenta o processo de extração, transformação e carga (E
 ## Estrutura do Repositório
 ```
 |
-|-- dre_tratado_final/               # Banco de dados SQLite tratado
-|   |-- dre_tratado_final.db         # Arquivo final após limpeza e ajustes
+|-- DRE_Final/                 # Banco de dados SQLite tratado
+|   |-- dre_tratado_final.db   # Arquivo final após limpeza e ajustes
 |
-|-- Tratamento_e_Validação/         # Processamento no Colab
-|   |-- Notebook_Colab.ipynb         # Código de ETL com validações e correções
+|-- Tratamento_e_Validação/    # Processamento no Colab
+|   |-- Notebook_Colab.ipynb   # Código de ETL com validações e correções
 |
-|-- Vena Dashboard/                 # Arquivo Power BI
-|   |-- Vena_Dashboard.pbix         # Relatório final com medidas DAX e visualizações
+|-- Dashboard/                 # Arquivo Power BI
+|   |-- Dashboard.pbix         # Relatório final com medidas DAX e visualizações
 |
-|-- Documentação.md                  # Detalhes do processo e soluções aplicadas
-|-- README.md                        # Visão geral do projeto
+|-- Documentação.md            # Detalhes do processo e soluções aplicadas
+|-- README.md                  # Visão geral do projeto
 ```
 
 ---
